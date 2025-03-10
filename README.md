@@ -1,4 +1,3 @@
-# smartnewsanalyzer
 # SmartNewsAnalyzer
 
 ## Architecture Components
